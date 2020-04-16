@@ -1,6 +1,9 @@
 # Changelog
 All notable changes to this component will be documented in this file.
 
+## [1.0.4] - 2020-04-15
+- Added the new data-reveal-fx-delta attribute
+
 ## [1.0.3] - 2020-04-03
 - Added clip-x and clip-y effects
 
