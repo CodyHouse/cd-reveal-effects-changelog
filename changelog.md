@@ -1,6 +1,9 @@
 # Changelog
 All notable changes to this component will be documented in this file.
 
+## [1.0.5] - 2020-09-30
+- Minor changes to improve support on older browsers (e.g., IE11)
+
 ## [1.0.4] - 2020-04-15
 - Added the new data-reveal-fx-delta attribute
 
