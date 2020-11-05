@@ -1,6 +1,9 @@
 # Changelog
 All notable changes to this component will be documented in this file.
 
+## [1.1.0] - 2020-11-05
+- New restartAll custom event to reset the element appearance
+
 ## [1.0.5] - 2020-09-30
 - Minor changes to improve support on older browsers (e.g., IE11)
 
